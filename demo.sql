@@ -1,0 +1,2 @@
+slect * from a 
+'
